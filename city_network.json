@@ -1,0 +1,240 @@
+{
+    "cities": [
+        "Tromsø",
+        "Bergen",
+        "Oulu",
+        "Murmansk",
+        "Edinburgh",
+        "London",
+        "Stockholm",
+        "Saint_Petersburg",
+        "Arkhangelsk",
+        "Hamburg",
+        "Madrid",
+        "Rome",
+        "Budapest",
+        "Kyiv",
+        "Moscow",
+        "Ulyanovsk",
+        "Istanbul",
+        "Donetsk",
+        "Baku"
+    ],
+    "connections": [
+        {
+            "from": "Tromsø",
+            "to": "Bergen",
+            "weight": 4
+        },
+        {
+            "from": "Tromsø",
+            "to": "Oulu",
+            "weight": 2
+        },
+        {
+            "from": "Tromsø",
+            "to": "Murmansk",
+            "weight": 2
+        },
+        {
+            "from": "Bergen",
+            "to": "Oulu",
+            "weight": 4
+        },
+        {
+            "from": "Bergen",
+            "to": "Edinburgh",
+            "weight": 2
+        },
+        {
+            "from": "Bergen",
+            "to": "Stockholm",
+            "weight": 2
+        },
+        {
+            "from": "Bergen",
+            "to": "Hamburg",
+            "weight": 2
+        },
+        {
+            "from": "Oulu",
+            "to": "Murmansk",
+            "weight": 4
+        },
+        {
+            "from": "Oulu",
+            "to": "Stockholm",
+            "weight": 2
+        },
+        {
+            "from": "Oulu",
+            "to": "Saint_Petersburg",
+            "weight": 1
+        },
+        {
+            "from": "Oulu",
+            "to": "Arkhangelsk",
+            "weight": 2
+        },
+        {
+            "from": "Murmansk",
+            "to": "Arkhangelsk",
+            "weight": 2
+        },
+        {
+            "from": "Edinburgh",
+            "to": "London",
+            "weight": 1
+        },
+        {
+            "from": "Edinburgh",
+            "to": "Hamburg",
+            "weight": 2
+        },
+        {
+            "from": "Stockholm",
+            "to": "Hamburg",
+            "weight": 2
+        },
+        {
+            "from": "Stockholm",
+            "to": "Budapest",
+            "weight": 3
+        },
+        {
+            "from": "Stockholm",
+            "to": "Kyiv",
+            "weight": 3
+        },
+        {
+            "from": "Stockholm",
+            "to": "Saint_Petersburg",
+            "weight": 2
+        },
+        {
+            "from": "Saint_Petersburg",
+            "to": "Kyiv",
+            "weight": 2
+        },
+        {
+            "from": "Saint_Petersburg",
+            "to": "Moscow",
+            "weight": 1
+        },
+        {
+            "from": "Saint_Petersburg",
+            "to": "Arkhangelsk",
+            "weight": 2
+        },
+        {
+            "from": "Arkhangelsk",
+            "to": "Moscow",
+            "weight": 3
+        },
+        {
+            "from": "Arkhangelsk",
+            "to": "Ulyanovsk",
+            "weight": 4
+        },
+        {
+            "from": "London",
+            "to": "Madrid",
+            "weight": 2
+        },
+        {
+            "from": "London",
+            "to": "Rome",
+            "weight": 3
+        },
+        {
+            "from": "London",
+            "to": "Hamburg",
+            "weight": 1
+        },
+        {
+            "from": "Hamburg",
+            "to": "Rome",
+            "weight": 3
+        },
+        {
+            "from": "Hamburg",
+            "to": "Budapest",
+            "weight": 2
+        },
+        {
+            "from": "Budapest",
+            "to": "Rome",
+            "weight": 1
+        },
+        {
+            "from": "Budapest",
+            "to": "Kyiv",
+            "weight": 1
+        },
+        {
+            "from": "Budapest",
+            "to": "Istanbul",
+            "weight": 2
+        },
+        {
+            "from": "Kyiv",
+            "to": "Istanbul",
+            "weight": 2
+        },
+        {
+            "from": "Kyiv",
+            "to": "Donetsk",
+            "weight": 1
+        },
+        {
+            "from": "Kyiv",
+            "to": "Moscow",
+            "weight": 1
+        },
+        {
+            "from": "Moscow",
+            "to": "Donetsk",
+            "weight": 1
+        },
+        {
+            "from": "Moscow",
+            "to": "Ulyanovsk",
+            "weight": 1
+        },
+        {
+            "from": "Ulyanovsk",
+            "to": "Donetsk",
+            "weight": 2
+        },
+        {
+            "from": "Ulyanovsk",
+            "to": "Baku",
+            "weight": 6
+        },
+        {
+            "from": "Madrid",
+            "to": "Rome",
+            "weight": 4
+        },
+        {
+            "from": "Rome",
+            "to": "Istanbul",
+            "weight": 2
+        },
+        {
+            "from": "Istanbul",
+            "to": "Donetsk",
+            "weight": 2
+        },
+        {
+            "from": "Istanbul",
+            "to": "Baku",
+            "weight": 3
+        },
+        {
+            "from": "Donetsk",
+            "to": "Baku",
+            "weight": 2
+        }
+    ]
+}
